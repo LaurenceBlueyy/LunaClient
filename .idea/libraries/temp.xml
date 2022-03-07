@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="temp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/temp/minecraft_ff_extra.jar!/" />
+      <root url="jar://$PROJECT_DIR$/temp/minecraft_rg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/temp/minecraft_ff_out.jar!/" />
+      <root url="jar://$PROJECT_DIR$/temp/minecraft_exc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/temp/minecraft_ff_in.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.DiscordEventHandlers.Builder"/>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.DiscordEventHandlers"/>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.callbacks.ReadyCallback"/>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.DiscordUser"/>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.DiscordRPC"/>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.DiscordRichPresence"/>
+    <fullyQualifiedTypeName name="net.arikia.dev.drpc.DiscordRichPresence.Builder"/>
+    <fullyQualifiedTypeName name="luna.Client"/>
+</qualifiedTypeNameHistroy>
